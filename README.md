@@ -8,7 +8,7 @@ MalDetect is a deep-learning malware detection system built using the [EMBER dat
   <img src="https://i.imgur.com/RiVOPoE.jpg" alt="Image by Ange Albertini"/>
 </p>
 
-Features include a handpicked selection of 100 PE libraries, boolean file properties (has_imports, has_exports, has_tls, etc.), 64 bytes of the PE entry point (used as a signature), and other features relevant to malware.
+Features include a handpicked selection of 100 PE libraries, boolean file properties (has_imports, has_exports, has_tls, etc.), 64 bytes of the PE entry point (used as a signature), and other features relevant to malware detection.
 
 ## License
 
