@@ -1,6 +1,6 @@
 # MalDetect
 
-MalDetect is a deep-learning malware detection system built using the [EMBER dataset](https://www.tensorflow.org) of 1.1 million executables. This neural network was trained on over 600,000 [Portable Executable](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format) samples and achieved an accuracy of 97.8% in detecting a file as malicious.
+MalDetect is a deep learning malware detection system built using the [EMBER dataset](https://www.tensorflow.org) of 1.1 million executables. This neural network was trained on over 600,000 [Portable Executable](https://docs.microsoft.com/en-us/windows/win32/debug/pe-format) samples and achieved an accuracy of 97.8% in detecting a file as malicious.
 
 ## Features Engineering
 
